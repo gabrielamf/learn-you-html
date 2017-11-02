@@ -1,4 +1,4 @@
-# Freelancer
+# LearnyouHTML
 
 * **Track:** _Common Core_
 * **Curso:** _Creando tu primer sitio web interactivo_
@@ -9,7 +9,7 @@
 El presente repositorio presenta el desarrollo de **"learnyouhtml"**, un workshopper realizado por _Denys Dovhan_, que contiene 11 ejercicios que abarcan los aspectos mas importantes de **HTML**.  
 A continuación los temas de los ejercicios mencionados:  
 
-1.  Hello world  
+1. Hello world  
 2. Tags  
 3. Attributes  
 4. Inline Tags  
